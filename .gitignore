@@ -1,0 +1,10 @@
+/Console.Logic.Tests/bin/Debug/*.pdb
+/Console.Logic.Tests/bin/Debug/*.dll
+/Calculator/obj/Debug/*.exe
+/Calculator.Logic/bin/Debug/*.dll
+/Calculator/bin/Debug/Calculator.Console.vshost.exe.config
+/Calculator.Logic/bin/*
+/Calculator.Logic/obj/*
+/Console.Logic.Tests/bin/*
+/Console.Logic.Tests/obj/*
+/packages/*
